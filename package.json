@@ -1,6 +1,6 @@
 {
   "name": "pixitextinputupdated",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "PIXI.TextInput plugin by Mwni, updated for PIXIv7 and node modules",
   "main": "index.js",
   "scripts": {
